@@ -104,4 +104,5 @@ a:hover {
 
 .dark-mode {
   background-color: #1d1d1d;
+  transition: background-color 0.3s ease, transform 0.3s ease;
 }
